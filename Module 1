@@ -1,0 +1,114 @@
+Why is AWS more economical that traditional data centers for applications with variable compute workloads?
+
+A. Amazon Elastic Compute Cloud (Amazon EC2) costs are billed on a monthly basis.
+
+B. Customers retain full administrative access to their Amazon EC2 instances.
+
+C. Amazon EC2 instances can be launched on-demand when needed.
+
+D. Customers can permanently run enough instances to handle peak workloads.
+
+---Amazon EC2 instances can be launched on-demand when needed.
+
+
+What are the advantages of cloud computing over computing on-premises? (Select the best answer.)
+
+A. Avoid large capital purchases
+
+B. Use on-demand capacity
+
+C. Go global in minutes
+
+D. Increase speed and agility
+
+E. On-demand capacity
+
+F. All of the above
+
+---All of the above
+
+
+What is the pricing model that enables AWS customers to pay for resources on an as-needed basis? (Select the best answer.)
+
+---Pay as you go
+
+Which of these is not a cloud deployment model? (Select the best answer.)
+
+---System administration as a service
+
+
+True or False? AWS owns and maintains the network-connected hardware required for application services, while you provision and use what you need.
+
+---True
+
+
+Which of the following are not benefits of AWS Cloud computing.
+
+A. Benefit from massive economies of scale
+
+B. Pay for racking, stacking, and powering servers 
+
+C. Eliminate guessing on your infrastructure capacity needs
+
+D. Increase speed and agility
+
+E. Trade capital expenses for variable expenses 
+
+---Pay for racking, stacking, and powering servers
+
+
+Which of these is not a benefit of cloud computing over on-premises computing? (Select the best answer.)
+
+A. Multiple procurement cycles
+
+B. Temporary and disposable resources
+
+C. Fault-tolerant databases
+
+D. High availability
+
+E. High latency
+
+--- High latency
+---Multiple procurement cycles
+
+
+Which of the following is a compute service? (Select the best answer)
+
+---Amazon EC2
+
+
+True or False? Cloud computing provides a simple way to access servers, storage, databases, and a broad set of application services over the internet. You own the network-connected hardware required for these services and Amazon Web Services provisions what you need.
+
+---False
+
+
+Economies of scale result from ______. (Select the best answer)
+
+---having hundreds of thousands of customers aggregated in the cloud
+
+
+Which of these are ways to access AWS core services? (Choose three)
+
+A. Technical support calls
+B. AWS Command Line Interface (AWS CLI)
+C. AWS Management Console
+D. Software Development Kits (SDKs)
+E. AWS Marketplace
+
+--- Software Development Kits (SDKs)
+---AWS Command Line Interface (AWS CLI)
+---AWS Management Console
+
+
+Which AWS service provides infrastructure security optimization recommendations?
+
+A. AWS Price List Application Programming Interface (API)
+
+B. Reserved Instances
+
+C. AWS Trusted Advisor
+
+D. Amazon Elastic Compute Cloud (Amazon EC2) Spot Fleet
+
+---AWS Trusted Advisor
