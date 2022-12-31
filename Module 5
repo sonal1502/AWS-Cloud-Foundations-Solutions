@@ -1,0 +1,96 @@
+With Amazon VPC, what is the smallest size subnet you can have in a VPC?
+
+---/28
+
+
+With Amazon VPC, what is the maximum size IP address range you can have in a VPC?
+
+---/16
+
+
+You need to allow resources in a private subnet to access the internet. Which of the following must be present to enable this access? (Select the best answer).
+
+A. Route Tables
+
+B. Network Access Control List
+
+C. NAT Gateway
+
+D. Security Groups
+
+---NAT Gateway
+
+
+Which AWS networking service enables a company to create a virtual network within AWS? (Select the best answer).
+
+A. AWS Config
+
+B. Amazon Route 53
+
+C. AWS Direct Connect
+
+D. Amazon Virtual Private Cloud (Amazon VPC)
+
+---Amazon Virtual Private Cloud (Amazon VPC)
+
+
+True or False?Private subnets have direct access to the Internet.
+
+---False
+
+
+Which component of AWS global infrastructure does Amazon CloudFront use to ensure low-latency delivery?(Select the best answer)
+
+---AWS edge locations
+
+
+Which of the following are features of an edge location? (select all that applies)
+
+A. Used in conjunction with the CloudFront service
+
+B. Distribute Network Address
+
+C. Distribute content to users
+
+D. Cache common responses
+
+---Used in conjunction with the CloudFront service
+--- Distribute content to users
+---Cache common responses
+
+
+What AWS tool utilizes edge locations to cache content and reduce latency?
+
+A. AWS CloudFront
+
+B. EC2 Instances
+
+C. RDS
+
+D. VPCs
+
+E. EBS Storage
+
+---AWS CloudFront
+
+
+Which of the following is an optional security control that can be applied at the subnet layer of a VPC? (Select the best answer)
+
+---Network ACL
+
+
+What happens when you create a new Amazon VPC? (Select the best answer)
+
+---A main route table is created by default.
+
+
+Which of the following can be used to protect Amazon Elastic Compute Cloud (Amazon EC2) instances hosted in AWS? (Select the best answer)
+
+---Security group
+
+
+You are a solutions architect who works at a large retail company that is migrating its existing infrastructure to AWS. You recommend that they use a custom VPC. When you create a VPC, you assign it to an IPv4 Classless Inter-Domain Routing (CIDR) block of 10.0.1.0/24 (which has 256 total IP addresses). How many IP addresses are available? (Select the best answer.)
+
+---251
+2^8=256
+256 - 5 (reserved by AWS) = 251
